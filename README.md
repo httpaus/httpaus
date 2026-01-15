@@ -1,30 +1,4 @@
-💫 About Me:
-Hi, I’m a BTech CSE Student & Full Stack Developer
-🎓 BTech Computer Science Engineering (3rd Year)
-💻 Full Stack Developer | MERN Stack | Project Builder
-🚀 About Me
-🔭 I’m currently working on
-Full Stack Web Applications
-Real-world projects using MERN stack
-🤝 I’m looking to collaborate on
-Open Source Projects
-Full Stack & Web Development
-🌱 I’m currently learning
-Advanced Data Structures & Algorithms
-Backend optimization & system design
-💬 Ask me about
-Full Stack Development
-MERN Stack
-Project Building & Deployment
-⚡ Fun fact
-I love converting ideas into scalable web applications 🚀
-🛠️ Tech Stack
-Frontend:
-HTML • CSS • JavaScript • React
-Backend:
-Node.js • Express.js
-Database:
-MongoDB • MySQL
+
 Tools:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/httpaus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-sharma-2b385037b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:httptocsi@gmail.com) 
