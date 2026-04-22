@@ -1,25 +1,84 @@
-# 💫 About Me:
- Hi, I'm a BTech CSE Student & Full Stack Developer<br>🎓 BTech Computer Science Engineering (3rd Year)<br>💻 Full Stack Developer | MERN Stack | Project Builder<br>🚀 About Me<br>🔭 I’m currently working on<br>Full Stack Web Applications<br>Real-world projects using MERN stack<br>🤝 I’m looking to collaborate on<br>Open Source Projects<br>Full Stack & Web Development<br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms<br>Backend optimization & system design<br>💬 Ask me about<br>Full Stack Development<br>MERN Stack<br>Project Building & Deployment<br>⚡ Fun fact<br>I love converting ideas into scalable web applications 🚀<br>🛠️ Tech Stack<br>Frontend:<br>HTML • CSS • JavaScript • React<br>Backend:<br>Node.js • Express.js<br>Database:<br>MongoDB • MySQL<br>Tools:<br>Git • GitHub • VS Code
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/httpaus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-sharma-2b385037b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:httptocsi@gmail.com) 
+<h1 align="center">Hi 👋, I'm Ayush Kumar Sharma</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=httpaus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=httpaus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=httpaus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CSE+Student;Aspiring+Software+Developer;Web+Developer;Cybersecurity+Enthusiast&center=true&width=500&height=45">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=httpaus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=httpaus&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=httpaus&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=httpaus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 BTech CSE Student (2023–2027)  
+- 💻 Interested in Web Development & Cybersecurity  
+- 🔭 Currently building **Seva Mitr – Doorstep Service Platform**  
+- 🌱 Learning JavaScript & Full Stack Development  
+- 📍 Lucknow, India  
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🔹 Seva Mitr – Doorstep Service Platform
+- Full-stack web application for booking local services  
+- Features:
+  - User authentication  
+  - Booking system  
+  - Admin panel  
+  - MySQL database  
+  - Responsive design  
+
+👉 https://github.com/httpaus/seva-mitr  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=httpaus&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpaus&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=httpaus&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/httpaus/httpaus/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 httptocsi@gmail.com  
+
+---
+
+⭐ *Keep learning, keep building!*
