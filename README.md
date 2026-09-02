@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/httptocsi/httpaus/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/httptocsi/ayushkrsharma27/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
